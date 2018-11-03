@@ -1,0 +1,138 @@
+body {
+	background-color: rgb(216, 198, 178);
+	font-weight: 800;
+	}
+
+/*#container {
+	margin-top: 10px;
+	height : 600px;
+	width : 450px;
+}*/
+
+.col-xs-12 {
+	height: 4em;
+	font-size : 35px;
+	padding : 20px;
+	margin-top: 10px;
+    margin-bottom: 10px;
+	font-family: 'Oleo Script Swash Caps', cursive;
+	text-align: center;
+}
+
+.annivOne {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	padding: 50px;
+	background: url(https://42d3agjcsyy46s3v5209co3g-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/StockSnap_79D5XRLWLJ-768x377.jpg);
+	background-size: cover;
+	border : rgba(0, 0, 0, 0.75) 10px solid;
+	font-family: 'Spicy Rice', cursive;
+	border-radius: 10px;
+	text-align : center;
+	color: #fff;
+	text-shadow: 2px 2px 2px rgba(174, 20, 32, 0.5);
+}
+
+#clic {
+	cursor: pointer;
+	background-color: rgb(174, 20, 32);
+	font-size : 20px ;
+	width : 20%;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#clic:hover{
+	transform: scale(1.1);
+}
+
+
+#phrases {
+	width : 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.newPhrase1 {
+	color: #ff0000;
+	text-shadow: 1px 1px 1px #000;
+	background: url(http://fralleng.ch/genialA1/sites/fralleng.ch.genialA1/files/Clique72.jpg) center no-repeat;
+	background-size: cover;
+}
+
+.newPhrase2 {
+	text-shadow: 1px 1px 1px #fff;
+	background: url(https://t3.ftcdn.net/jpg/01/25/81/22/240_F_125812214_UpHDA9EVULmkRHvAaYX4DZXG7iB5mOE7.jpg) center no-repeat;
+	background-size: cover;
+}
+
+.newPhrase3 {
+	color: #fff;
+	text-shadow: 1px 1px 1px #000;
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPkYkOcxI0h6Ydx6hW1-YhylwIIyHce4kygondeYHnP_Sie_Xihg) center no-repeat;
+	background-size: cover;
+}
+
+.newClic1 {
+	cursor: pointer;
+	background-color: rgb(0, 102, 168);
+	font-size : 20px ;
+	width : 20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.newClic2 {
+	cursor: pointer;
+	background-color: #fffcb1 ;
+	font-size : 20px ;
+	width : 20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.newClic3 {
+	cursor: pointer;
+	background-color: #87bed8 ;
+	font-size : 20px ;
+	width : 20%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.lastPhrase1 {
+	font-family: 'Monoton', cursive;
+	background-color : rgb(255, 75, 75);
+	border-radius : 20px ;
+	font-size : 35px;
+	padding : 10px;
+	height: 2em;
+}
+
+.lastPhrase2 {
+	font-family: 'Monoton', cursive;
+	background-color : rgb(255, 75, 75);
+	border-radius : 20px ;
+	font-size : 40px;
+	padding : 10px;
+	height: 2em;
+}
+
+.lastPhrase3 {
+	font-family: 'Spicy Rice', cursive;
+	background-color : rgb(255, 75, 75);
+	border-radius : 20px ;
+	font-size : 50px;
+	padding : 10px;
+	height: 2em;
+}
+
+.lastannivOne {
+	font-family: 'Spicy Rice', cursive;
+	background-color : #F95D47;
+}
+
+.lastBody {
+	background-image : url("tiki.jpg");
+}
